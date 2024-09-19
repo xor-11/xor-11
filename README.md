@@ -1,7 +1,7 @@
 ![](https://github.com/xor-11/xor-11/blob/236a1eec7f159d2e801dfb6d94e0cceead0a693d/template/XOR-11_20240919_122943_0002.gif)
 
 # Hi I'm Sayak Chowdhury👋
-[![Linkedin Badge](https://img.shields.io/badge/-sayak-chowdhury-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-chowdhury/)](https://www.linkedin.com/in/sayak-chowdhury/)
+[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-chowdhury/)](https://www.linkedin.com/in/sayak-chowdhury/)
 [![Instagram Badge](https://img.shields.io/badge/-@_greyisblack7-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/greyisblack7/)](https://instagram.com/greyisblack7)
 [![Gmail Badge](https://img.shields.io/badge/-chowdhurysayak7-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chowdhurysayak7@gmail.com)](mailto:chowdhurysayak7@gmail.com)
 
