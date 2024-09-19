@@ -1,3 +1,7 @@
+![](https://github.com/xor-11/xor-11/blob/236a1eec7f159d2e801dfb6d94e0cceead0a693d/template/XOR-11_20240919_122943_0002.gif)
+
+
+
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
