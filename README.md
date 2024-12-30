@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@_greyisblack7-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/greyisblack7/)](https://instagram.com/greyisblack7)
 [![Gmail Badge](https://img.shields.io/badge/-chowdhurysayak7-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chowdhurysayak7@gmail.com)](mailto:chowdhurysayak7@gmail.com)
 <br>
- I am currently an undergraduate Elcetronics And Communication Engineering student at Univerity of Calcutta.
+ I am currently an undergraduate Electronics And Communication Engineering student at Univerity of Calcutta.
  <br>
  I would love to colaborate on any project. Feel free to connect with me. :)
  
