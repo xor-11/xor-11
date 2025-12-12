@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=39FF14&center=false&vCenter=false&width=480&lines=|+SAYAK+CHOWDHURY" alt="Name"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=39FF14&center=false&vCenter=false&width=480&lines=|'m+SAYAK+CHOWDHURY+:)" alt="Name"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=%E2%96%88%E2%96%88%E2%96%88+ELECTRONICS+%26+COMMUNICATION+ENGINEER+%E2%96%88%E2%96%88%E2%96%88;%E2%96%88%E2%96%88%E2%96%88+UNIVERSITY+OF+CALCUTTA+%E2%96%88%E2%96%88%E2%96%88" alt="Title"/>
 
