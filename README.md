@@ -23,9 +23,7 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sayak-chowdhury/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=000000"/>
-</a>
+
 <a href="https://instagram.com/greyisblack7">
 <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FF00FF&labelColor=000000"/>
 </a>
